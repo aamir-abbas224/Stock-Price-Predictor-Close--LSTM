@@ -19,4 +19,21 @@ How it Works:
   Train an LSTM model to predict the next closing price.
   Evaluate predictions using RMSE and visualize results.  
 
-**Note:** Highly volatile stocks like **NVDA** may show steep predicted trends due to rapid price jumps, which can cause the model to over-predict sharp rises. This is a result of the stock’s extreme volatility and not a problem with the model itself.
+**Note:** Highly volatile stocks like **NVDA** may show steep predicted trends due to rapid price jumps, which can cause the model to over-predict sharp rises. This is a result of the stock’s extreme volatility and not a problem with the model itself. See below pictures as examples of the model prediction:
+
+**NVIDIA/NVDA**
+
+<img width="800" height="533" alt="_NVDA" src="https://github.com/user-attachments/assets/1b78a2f0-ae2c-4baa-bd49-3a9ca4e85679" />
+
+
+**AAPLE/AAPL**
+
+<img width="800" height="533" alt="_AAPL" src="https://github.com/user-attachments/assets/571cb971-86ef-4a15-9e81-e924b276d560" />
+
+
+**MICROSOT/MSFT**
+
+<img width="800" height="533" alt="_MSFT" src="https://github.com/user-attachments/assets/50756047-c241-4a02-a818-b5db4a2c4da8" />
+
+
+
